@@ -149,10 +149,12 @@
 盛诗颖：</br>
 1. 和武春媛的点击一个类合并
 
+[雷达图](https://www.visualcinnamon.com/2015/10/different-look-d3-radar-chart.html)</br>
+
+
 点选：</br>
 一. 点大圈 -> 点选之后展示一个类的数据（高透明度作为背景）</br>
 二. 点小圈 -> 点选之后展示一个人的数据 </br>
-
 
 
 周五下午合一下！
